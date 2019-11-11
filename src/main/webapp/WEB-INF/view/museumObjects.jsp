@@ -42,7 +42,7 @@
 							
 								<thead>
 									<tr>
-										<th><a href="museumObject/${museumObject.id}"><img width="220" height="220" src="slika/${museumObject.id}" alt=".." class="img-thumbnail"></a></th>
+										<th><a href="museumObject/${museumObject.id}"><img width="220" height="220" src="images/${museumObject.imageName}" alt=".." class="img-thumbnail"></a></th>
 									</tr>
 								</thead>
 																
