@@ -17,8 +17,6 @@
 	</nav>
 	<div class="container">
 		<h2 class="text-center font-weight-light text-info">${museumObject.name}</h2>
-		<img src="slika/${museumObject.id}" class="rounded"
-			alt="primjerak" width=700px; height=500px>
 		
 		<p class="text-left">${museumObject.description}</p>
 		
